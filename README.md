@@ -96,6 +96,10 @@ END;
 - Automatic logging via **SQL triggers**
 - User-friendly schema and structure
 
+## Getting Started
+1. Copy and run the SQL script in a MySQL-compatible environment.
+2. Perform user insert/update operations and observe auto-generated logs in the `AuditLog` table.
+
 ## Use Cases
 - Regulatory and Compliance tracking
 - Security audits
