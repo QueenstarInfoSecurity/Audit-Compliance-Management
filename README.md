@@ -111,3 +111,7 @@ END;
 - Web-based front-end dashboard
 - Advanced filtering and reporting on audit logs
 - Email notifications on critical actions
+
+
+## License
+  Licensed under the MIT lincense.
