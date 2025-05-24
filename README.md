@@ -116,5 +116,4 @@ END;
 ## License
   Licensed under the MIT lincense.
  
-## ** Disclaimer:**
-This project is provided **as is**, without any warranties or guarantees. The developer assumes **no responsibility** for any issues, damages,or legal consequences arising from the use of this content. Users should consult legal professionals before implementing.
+
